@@ -1,0 +1,46 @@
+,billing_entity,best_model,mape_avg_min
+0,AHPN,SARIMA,6.1
+1,AHPN Clear Lake,SARIMA,42.15
+2,AHPN Glendale,TBATS,12.14
+3,AHPN Lodi,SARIMAX,9.76
+4,AHPN Napa Valley,VARMA,17.03
+5,AHPN Simi,SARIMAX,14.74
+6,AHPN Sonora,SARIMA,126.29
+7,AHPN Ukiah,TBATS,53.51
+8,AHPN White,VARMA,27.81
+9,Adventist Health Tehachapi Valley,TBATS,12.8
+10,Adventist Health Tehachapi Valley RHC Clinics,SARIMAX,19.67
+11,Adventist Medical Center - Hanford and Selma,Holt Winter's,4.76
+12,Adventist Medical Center - Portland,Holt Winter's,7.46
+13,Adventist Medical Center - Reedley,Holt Winter's,6.34
+14,All Adventist W,SARIMAX,5.45
+15,Castle Medical Center,SARIMAX,5.6
+16,Castle Physician Network Clinics,SARIMAX,15.39
+17,Castle RHC Clinics,SARIMA,8.09
+18,Central Valley Network Clinics,Holt Winter's,7.97
+19,Feather River Clinics,PROPHET,52.24
+20,Frank R Howard Clinics,PROPHET,13.09
+21,Frank R. Howard Memorial Hospital,SARIMA,8.83
+22,Glendale Adventist Medical Center,SARIMAX,4.89
+23,Glendale Clinics,VARMA,18.02
+24,Lodi MSO Lampa,SARIMA,9.93
+25,Lodi MSO Mark Lloyd Hoff,TBATS,16.22
+26,Lodi Memorial Community Clinics,Holt Winter's,17.1
+27,Lodi Memorial Hospital,TBATS,7.68
+28,Lodi Memorial Hospital Based Clinics,VARMA,29.25
+29,Lodi Memorial Rural Health Clinics,VARMAX,8.02
+30,San Joaquin Clinics,Holt Winter's,9.43
+31,San Joaquin Community Hospital,Holt Winter's,4.86
+32,Simi Valley Hospital,TBATS,10.47
+33,Sonora Clinics,SARIMAX,6.12
+34,Sonora Regional Medical Center,Holt Winter's,7.79
+35,St. Helena Clear Lake Clinics,TBATS,9.44
+36,St. Helena Hospital Center Clear Lake,Holt Winter's,6.0
+37,St. Helena Hospital Napa Valley,TBATS,8.37
+38,St. Helena Napa Valley Clinics,TBATS,28.42
+39,Tillamook Regional Medical Center,VARMAX,7.24
+40,Ukiah Valley Clinics,SARIMAX,6.73
+41,Ukiah Valley Medical Center,Holt Winter's,6.33
+42,White Memorial Clinics,VARMA,17.75
+43,White Memorial Medical Center,Holt Winter's,7.47
+44,Feather River Hospital,Holt Winter's,160.17

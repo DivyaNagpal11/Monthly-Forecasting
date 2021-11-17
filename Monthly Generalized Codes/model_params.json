@@ -1,0 +1,56 @@
+{"model_params":
+	{"sarima":
+	{
+		"p":[0,1],
+		"d":[0,1],
+		"q":[0,1],
+		"P":[0,1],
+		"D":[0,1],
+		"Q":[0,1],
+		"s":[3,6,12]
+	},
+	"sarimax":
+		{
+		"p":[0,1],
+		"d":[0,1],
+		"q":[0,1],
+		"P":[0,1],
+		"D":[0,1],
+		"Q":[0,1],
+		"s":[3,6,12]
+	},
+	"prophet":
+	{
+		"cp":[0.3],
+		"fo3":[4,8],
+		"fo6":[4,8],
+		"fo12":[4,6]
+	},
+	"holtwinters":
+	{
+		"t":["add","mul",null],
+        "d":[true,false],
+        "s":["add", "mul",null],
+        "p":[3,6,12,null],
+        "b":[true,false],
+        "r":[true,false]
+	},
+	"tbats":
+	{
+		"use_arma_errors":[true,false],
+        "use_box_cox":[true,false],
+        "use_trend":[true,false],
+        "use_damped_trend":[true,false] 
+	},
+	"varma":
+	{
+		"p":[1,2,3,4],
+        "q":[0,1,2,3,4]
+	},
+	"varmax":
+	{
+		"p":[1,2,3,4],
+        "q":[0,1,2,3,4]
+	}
+}
+}
