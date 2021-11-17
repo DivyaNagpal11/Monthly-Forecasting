@@ -1,2 +1,2 @@
-# Daily-Forecasting
-Time Series Forecasting Models for daily level predictions.
+# Monthly-Forecasting
+Time Series Forecasting Models for monthly level predictions.
